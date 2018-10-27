@@ -1,0 +1,12 @@
+{
+  "name": "test_load_module",
+  "version": "0.0.0",
+  "description": "Test_load_module",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  }
+}
