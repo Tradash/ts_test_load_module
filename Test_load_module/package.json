@@ -7,6 +7,9 @@
     "name": ""
   },
   "devDependencies": {
-    "@types/node": "^8.0.14"
+    "@types/node": "^8.10.36"
+  },
+  "dependencies": {
+    "http": "0.0.0"
   }
 }

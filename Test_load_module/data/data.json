@@ -1,0 +1,45 @@
+{
+  "site": {
+    "1": {
+      "port": 8080,
+      "type": "search",
+      "url": "yandex"
+    },
+    "2": {
+      "port": 8090,
+      "type": "search",
+      "url": "google"
+    },
+    "3": {
+      "port": 8100,
+      "type": "news",
+      "url": "rbc"
+    },
+    "4": {
+      "port": 8200,
+      "type": "news",
+      "url": "cnn"
+    }
+  },
+  "program": {
+    "1": {
+      "port": 8080,
+      "type": "search",
+      "name": "yandex"
+    },
+    "2": {
+      "port": 8090,
+      "type": "search",
+      "name": "google"
+    },
+    "3": {
+      "port": 8100,
+      "type": "news",
+      "name": "rbc"
+    },
+    "4": {
+      "port": 8200,
+      "type": "news",
+      "name": "cnn"
+    }
+  }
